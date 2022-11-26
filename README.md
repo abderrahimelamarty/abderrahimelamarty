@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abderrahimelamarty a software Engineer student at INPT
 - 👀 I’m interested in web and mobile development.
-- 🌱 I’m currently learning full stack developme't with spring boot and angular
+- 🌱 I’m currently learning full stack development with spring boot and angular
 
 <!---
 abderrahimelamarty/abderrahimelamarty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
